@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, I'm FasihNasir</h1>
 <h3 align="center">I'm a seasoned Mern Stack Developer with a passion for crafting robust and scalable web solutions. With a solid foundation in both frontend and backend technologies, I thrive in dynamic environments where innovation and creativity are valued. My expertise lies in the MEAN (MongoDB, Express.js, Angular, Node.js) stack, where I excel as a frontend developer creating engaging user interfaces and as a backend developer architecting efficient and secure APIs.</h3>
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnVjc2N3NWJiYnQzb2xsZmZ6eXNtdWJjcm5pNTIwb2Z5d2FvdG13dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.webp" alt="Animated Image" />
+</p>
+
+<p align="center">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fasih-nasir&label=Profile%20views&color=0e75b6&style=flat" alt="fasih-nasir" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fasih-nasir" alt="fasih-nasir" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
+</p>
 - 👨‍💻 All of my projects are available at [fasih-nasirall.netlify.app](sih-nasirall.netlify.app)
 
 - 📝 I regularly write articles on [https://fasihnasirportfolio.netlify.app/](https://fasihnasirportfolio.netlify.app/)
