@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 </p>
-- 👨‍💻 All of my projects are available at [fasih-nasirall.netlify.app](sih-nasirall.netlify.app)
+- 👨‍💻 All of my projects are available at [https://fasih-nasirall.netlify.app/]
 
 - 📝 I regularly write articles on [https://fasihnasirportfolio.netlify.app/](https://fasihnasirportfolio.netlify.app/)
 
