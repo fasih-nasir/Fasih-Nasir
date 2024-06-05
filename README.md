@@ -22,8 +22,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fasih-nasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fasih-nasir" height="30" width="40" /></a>
-<a href="https://fb.com/fasihnasir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fasihnasir" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fasih-nasir-830959252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fasih-nasir" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61550661127214&__cft__[0]=AZXhjvf3WTk2ymE3m0SfWANLefMQhtPC-dUiYAgllgPpEtD5IDZ-5olzVV_X2I3tHIC3_nPRlKFwAAzYgkH0Uz7Xm3TmGwHsUUWF9MGbo1D64JfpL6_NaA22nqgxLDE7tYGkUZwRaQItx4eQAW09B08CgUzgQrZm3-9_7N6fTTHocl3wb_4i1QsqIWlx-6nayx0&__tn__=-]C%2CP-R" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fasihnasir" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
