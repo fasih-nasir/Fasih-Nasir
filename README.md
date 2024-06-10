@@ -23,6 +23,7 @@
     </a>
   </p>
 </p>
+ <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-activity-graph/993b707cb556a5821062b429b5bef91fafcd9ded/asset/github-compact.svg" height=250 alt="graph"/> |
 
 - 👨‍💻 All of my projects are available at [https://fasih-nasirall.netlify.app/]
 
