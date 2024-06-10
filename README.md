@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm FasihNasir</h1>
 <h3 align="center">I'm a seasoned Mern Stack Developer with a passion for crafting robust and scalable web solutions. With a solid foundation in both frontend and backend technologies, I thrive in dynamic environments where innovation and creativity are valued. My expertise lies in the MEAN (MongoDB, Express.js, Angular, Node.js) stack, where I excel as a frontend developer creating engaging user interfaces and as a backend developer architecting efficient and secure APIs.</h3>
 
@@ -30,6 +31,22 @@
 - 📫 How to reach me **fasihnasir12@gmail.com**
 
 - 📄 Know about my experiences [https://fasihnasirportfolio.netlify.app/](https://fasihnasirportfolio.netlify.app/)
+# Coding Fun
+
+<table>
+  <tr>
+    <td>
+      <p align="left">
+Coding is not just about writing code; it's about solving problems. Whether you're debugging a tricky issue or designing an efficient algorithm, every line of code you write brings you closer to a solution. Problem-solving skills are essential for any developer. They help you think logically and approach challenges methodically. Embrace each problem as an opportunity to learn and grow. Here's a little animation to inspire you on your coding journey.
+      </p>
+    </td>
+    <td>
+      <p align="right">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeGFzMHBkd3VyMHJlMnNpM2llajBtanhxZG91OGljYXJ6ZjdnaTdvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp" alt="Coding GIF" width="650">
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,8 +61,34 @@
 ![](https://github-readme-stats.vercel.app/api?username=fasih-nasir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=fasih-nasir&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=fasih-nasir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# Random Developer Meme
+
+<p align="center">
+  <img src="https://i.imgur.com/ZKc8YYT.jpeg" alt="Random Dev Meme" width="500">
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=fasih-nasir&icon=0&color=0)](https://visitcount.itsvg.in)
+# Random Developer Quote
+
+<p align="center">
+  ✍️ <em>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." – Martin Fowler</em>
+</p>
+# Random Dev Tool Tip
+
+<p align="center">
+  ✨ <strong>Tip:</strong> "Use a version control system like Git to manage your code changes effectively and collaborate with others."
+</p>
+# Random Dev Joke
+
+<p align="center">
+  😂 <em>Why do programmers prefer dark mode?</em><br>
+  Because light attracts bugs!
+</p>
+# Random Dev Fact
+
+<p align="center">
+  📚 <strong>Fact:</strong> "The first computer programmer was Ada Lovelace, who wrote an algorithm for Charles Babbage's early mechanical general-purpose computer, the Analytical Engine."
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
