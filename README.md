@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm FasihNasir</h1>
-<h3 align="center">I'm a seasoned Mern Stack Developer with a passion for crafting robust and scalable web solutions. With a solid foundation in both frontend and backend technologies, I thrive in dynamic environments where innovation and creativity are valued. My expertise lies in the MEAN (MongoDB, Express.js, Angular, Node.js) stack, where I excel as a frontend developer creating engaging user interfaces and as a backend developer architecting efficient and secure APIs.</h3>
+<h3 align="center">I'm a seasoned Mern Stack Developer with a passion for crafting robust and scalable web solutions.
 
 <p align="center">
   <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" />
