@@ -3,7 +3,8 @@
 
 
 <p align="center">
-  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" />
+    <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg" alt="Animated Image" />
+<!--   <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" /> -->
 </p>
 
 <p align="center">
@@ -32,6 +33,8 @@
 - 📫 How to reach me **fasihnasir12@gmail.com**
 
 - 📄 Know about my experiences [https://fasihnasirportfolio.netlify.app/](https://fasihnasirportfolio.netlify.app/)
+
+ <img src="https://raw.githubusercontent.com/gist/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" height=250 alt="graph"/> |
 # Coding Fun
 
 <table>
