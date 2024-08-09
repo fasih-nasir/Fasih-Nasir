@@ -3,8 +3,8 @@
 
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg" alt="Animated Image" />
-<!--   <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" /> -->
+<!--     <img src="https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-green.svg" alt="Animated Image" /> -->
+  <img src="https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1" alt="Animated Image" />
 </p>
 
 <p align="center">
